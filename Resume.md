@@ -1,6 +1,6 @@
 # **Chris Barless**
 
-14+ years of experience developing web applications, specializing in React, TypeScript, Node.js
+14+ years of leading teams to deliver great web experiences, insatiable curiosity, and generally just kind of hacking on stuff
 
 ## Work Experience
 
