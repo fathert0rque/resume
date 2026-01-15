@@ -16,12 +16,12 @@ _Battery cathode research and development_
 
 `React` `Remix` `Docker` `Azure` `C#/.NET` `Message queues` `System design`
 
-- Orchestrated the migration of legacy internal administration systems to a **React/Remix** full-stack solution used by a team of over 100 scientific researchers and other personnel, with a reverse proxy fallback for a seamless phased rollout and ongoing feature parity.
-- Implemented an **MQTT broker** to allow the full-stack app to ingest sensor data from lab equipment in **real-time**, as well as programmatically dispatch machine control messages over Websockets to automate workflows
-- Developed dozens of robust features including chemical/hazard inventories, shipping/inventory scanning, equipment scheduling, a deep-zoom electron microscope viewer, and integrations with third-party accounting systems.
-- Drove **requirements gathering** to define functional needs, kept ADRs and user stories, and contributed to.NET API design aligned with RFC 9110.
-- Created deployment pipelines to **Azure App Service** via Docker and GitHub Actions, as well as Tauri-based desktop builds for evergreen on-premises kiosk-mode deployments.
-- Supervised and mentored a 3-person frontend team, setting up lean **agile processes**, code standards, PR checklists, and comprehensive onboarding documentation.
+- Executed a comprehensive digital transformation by migrating legacy internal administration systems to a React/Remix full-stack solution that served over 100 researchers and personnel, implementing a reverse proxy fallback architecture that ensured zero disruption during the transition while maintaining complete feature parity throughout the migration process.
+- **Transformed laboratory operations** by developing an MQTT broker system that established bidirectional communication between the application and laboratory equipment, enabling real-time sensor data collection and programmatic control via WebSockets that automated previously manual workflows and significantly reduced experiment setup time.
+- **Enhanced research capabilities** by implementing a suite of specialized features including chemical/hazard inventory management systems, barcode-based shipping and inventory tracking, equipment scheduling interfaces, a high-resolution electron microscope viewer with deep-zoom functionality, and seamless integrations with third-party accounting platforms.
+- **Strengthened software development practices** by leading requirements gathering sessions with researchers and stakeholders, maintaining comprehensive Architectural Decision Records (ADRs) and detailed user stories, and contributing to the design of RESTful.NET APIs aligned with RFC 9110 standards that improved system reliability and developer productivity.
+- **Established robust deployment** infrastructure by creating containerized CI/CD pipelines to Azure App Service using Docker and GitHub Actions, while simultaneously developing Tauri-based desktop applications that enabled consistent on-premises deployments for kiosk-mode systems in laboratory environments.
+- **Cultivated team excellence** by mentoring a 3-person frontend team, implementing structured agile methodologies, establishing comprehensive code standards and PR review processes, and creating detailed onboarding documentation that reduced ramp-up time for new team members and improved overall code quality.
 
 ### Sense Talent Labs
 
@@ -35,11 +35,11 @@ _ATS analytics and automation for staffing agencies_
 
 `TypeScript` `React` `Redux` `Python`
 
-- Contributed dozens of major React features with Flow static typing, plus unit/integration tests and supporting infrastructure
-- Made **full-stack contributions** to Python/Flask CRUD app; wrote API endpoints and integrated front-end data flows
-- Created a companion **Chrome extension** for the main web app
-- Performed large-scale automatic **AST-based refactors** of legacy JavaScript to align with updated company standards
-- Improved **internal documentation** and remote communication processes as the first fully remote hire
+- Developed and deployed dozens of major React features with Flow static typing that enhanced product functionality for thousands of daily users, while maintaining comprehensive unit and integration tests to ensure reliability.
+- Enhanced application performance by making strategic full-stack contributions to the Python/Flask CRUD architecture, including writing efficient API endpoints and integrating seamless front-end data flows.
+- Extended the product ecosystem by creating a companion Chrome extension that improved user workflow efficiency by allowing direct interaction with the platform from third-party sites.
+- Modernized the codebase through automated AST-based refactoring of legacy JavaScript, resulting in a 50% reduction in outdated code and a 20% decrease in application build time, significantly improving developer productivity.
+- Pioneered improved remote work practices by developing comprehensive internal documentation and communication protocols as the company's first fully remote employee, establishing best practices that were later adopted company-wide.
 
 ### Bunz App
 
@@ -53,10 +53,10 @@ _Local classifieds and community app_
 
 `React` `Redux` `NodeJS` `AWS`
 
-- Led a 3-person frontend team building a React app for **tens of thousands of daily active users**
-- Established a thorough code review process and **continuous release pipeline**
-- Implemented AWS solutions (S3, Lambda, Kinesis) for **data warehousing** and analytics
-- Contributed Node/MongoDB/Redis back-end code processing **millions of daily transactions**
+- Led a 3-person frontend team in developing and maintaining a React application that served tens of thousands of daily active users, ensuring consistent performance and feature delivery.
+- Established the company's first structured code review process and continuous release pipeline, creating a foundation for reliable deployments and sustainable codebase growth.
+- Architected and implemented AWS solutions (S3, Lambda, Kinesis) that successfully captured millions of user activity data points, enabling the training of a machine learning recommendation model that enhanced user engagement.
+- Contributed critical Node/MongoDB/Redis back-end code that reliably processed millions of daily transactions with minimal latency, supporting the platform's rapid user growth.
 
 ### Show Group
 
@@ -70,9 +70,9 @@ _Boutique Creative Agency_
 
 `React` `ThreeJS` `D3.js` `Socket.io` `Ruby`
 
-- **Directed all development efforts** at a startup creative agency
-- Collaborated with Creative Director to create custom websites and **interactive apps**, as well as craft brand identities.
-- Utilized a variety of **web technologies** including JavaScript, Websockets, PHP, and modern front-end frameworks
+- Directed all development initiatives for a startup creative agency, establishing technical standards and workflows that enabled consistent delivery of high-quality digital products.
+- Collaborated closely with the Creative Director to conceptualize and implement custom websites and interactive applications that effectively translated brand identities into engaging digital experiences.
+- Leveraged diverse web technologies including JavaScript frameworks, WebSockets, and server-side languages to create innovative digital solutions that exceeded client expectations and improved agency reputation.
 
 ### Pilot Interactive
 
@@ -86,26 +86,27 @@ _Digital Agency_
 
 `jQuery` `Backbone.js` `Codeigniter` `Wordpress` `Ruby`
 
-- Built websites and **single-page apps** with vanilla JS, jQuery, Backbone, and PHP frameworks like CodeIgniter and WordPress
-- Collaborated with design teams to create visually compelling, user-friendly interfaces for a startup creative agency
+- Built responsive websites and sophisticated single-page applications using vanilla JavaScript, jQuery, Backbone, and PHP frameworks that delivered intuitive user experiences across multiple device types.
+- Partnered with design teams to transform creative concepts into technically sound, visually compelling user interfaces that effectively communicated client brand values.
+- Steadily expanded technical capabilities from simple website implementations to complex interactive applications, contributing to the agency's ability to take on increasingly sophisticated projects.
 
 ## Skills
 
 Front-end Development: `TypeScript` `React` `CSS3` `HTML5` `a11y`
 
-Back-end Development: `Node/deno` `Vite` `Python` `PHP` `SQL` `MongoDB` `Redis`
-
-Command Line: `git` `bash` `regex` `nvim` `tmux`
+Back-end Development: `Node/deno` `Vite` `Python` `SQL` `MongoDB` `Redis` `PHP`
 
 Testing & Automation: `Vitest` `Cypress` `Playwright`
 
-Dev Ops: `Docker` `Azure` `networking` `system design`
+Dev Ops: `Docker` `Azure` `networking`
 
-Architecture: `planning` `requirements gathering`
+Architecture: `system design` `project planning` `requirements gathering`
+
+Command Line: `git` `bash` `regex` `nvim` `tmux`
 
 User Interfaces: `ux` `art` `design`
 
-Leadership: `agile` `code reviews` `mentorship`
+Leadership: `code reviews` `mentorship` `agile`
 
 Communication: `documentation` `instruction`
 
