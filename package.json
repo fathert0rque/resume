@@ -12,6 +12,6 @@
     "gray-matter": "^4.0.3",
     "handlebars": "^4.7.8",
     "marked": "^15.0.4",
-    "puppeteer": "^23.9.0"
+    "puppeteer": "^24.35.0"
   }
 }
