@@ -8,6 +8,25 @@ headline: 12+ years of leading teams to deliver great web experiences, insatiabl
 
 ## Work Experience
 
+### Part Out
+
+->Toronto, Canada
+
+_Classic Car Parts Marketplace_
+
+#### **Founder**
+
+->March 2025 - Present
+
+`React Native` `NextJS` `Supabase` `Cloudflare` `Azure` `C#/.NET` `Message queues` `System design`
+
+- Executed a comprehensive digital transformation by migrating legacy internal administration systems to a React/Remix full-stack solution that served over 100 researchers and personnel, implementing a reverse proxy fallback architecture that ensured zero disruption during the transition while maintaining complete feature parity throughout the migration process.
+- **Transformed laboratory operations** by developing an MQTT broker system that established bidirectional communication between the application and laboratory equipment, enabling real-time sensor data collection and programmatic control via WebSockets that automated previously manual workflows and significantly reduced experiment setup time.
+- **Enhanced research capabilities** by implementing a suite of specialized features including chemical/hazard inventory management systems, barcode-based shipping and inventory tracking, equipment scheduling interfaces, a high-resolution electron microscope viewer with deep-zoom functionality, and seamless integrations with third-party accounting platforms.
+- **Strengthened software development practices** by leading requirements gathering sessions with researchers and stakeholders, maintaining comprehensive Architectural Decision Records (ADRs) and detailed user stories, and contributing to the design of RESTful.NET APIs aligned with RFC 9110 standards that improved system reliability and developer productivity.
+- **Established robust deployment** infrastructure by creating containerized CI/CD pipelines to Azure App Service using Docker and GitHub Actions, while simultaneously developing Tauri-based desktop applications that enabled consistent on-premises deployments for kiosk-mode systems in laboratory environments.
+- **Cultivated team excellence** by mentoring a 3-person frontend team, implementing structured agile methodologies, establishing comprehensive code standards and PR review processes, and creating detailed onboarding documentation that reduced ramp-up time for new team members and improved overall code quality.
+
 ### Wildcat Discovery Technologies
 
 ->San Diego, USA (Remote)
