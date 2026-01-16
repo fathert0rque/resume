@@ -47,7 +47,7 @@ async function build() {
   const html = template({ ...frontmatter, body: bodyHtml });
 
   // Write HTML
-  const htmlPath = join(DIST, "resume.html");
+  const htmlPath = join(DIST, "index.html");
   writeFileSync(htmlPath, html);
   console.log(`  -> ${htmlPath}`);
 
