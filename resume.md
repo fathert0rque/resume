@@ -3,7 +3,7 @@ name: Chris Barless
 email: chris@barless.co
 phone: "+1 416 722 5624"
 website: barless.co
-headline: 14+ years of leading teams to deliver great web experiences, insatiable curiosity, and generally just kind of hacking on stuff
+headline: 12+ years of leading teams to deliver great web experiences, insatiable curiosity, and generally just kind of hacking on stuff
 ---
 
 ## Work Experience
@@ -77,24 +77,6 @@ _Boutique Creative Agency_
 - Directed all development initiatives for a startup creative agency, establishing technical standards and workflows that enabled consistent delivery of high-quality digital products.
 - Collaborated closely with the Creative Director to conceptualize and implement custom websites and interactive applications that effectively translated brand identities into engaging digital experiences.
 - Leveraged diverse web technologies including JavaScript frameworks, WebSockets, and server-side languages to create innovative digital solutions that exceeded client expectations and improved agency reputation.
-
-### Pilot Interactive
-
-->Toronto, Canada
-
-_Digital Agency_
-
-#### **Front-end Developer**
-
-->December 2010 - July 2014
-
-`jQuery` `Backbone.js` `Codeigniter` `Wordpress` `Ruby`
-
-- Built responsive websites and sophisticated single-page applications using vanilla JavaScript, jQuery, Backbone, and PHP frameworks that delivered intuitive user experiences across multiple device types.
-- Partnered with design teams to transform creative concepts into technically sound, visually compelling user interfaces that effectively communicated client brand values.
-- Steadily expanded technical capabilities from simple website implementations to complex interactive applications, contributing to the agency's ability to take on increasingly sophisticated projects.
-
-## Skills
 
 Front-end Development: `TypeScript` `React` `CSS3` `HTML5` `a11y`
 
