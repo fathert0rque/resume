@@ -1,3 +1,12 @@
+- Built a full‑stack C2C marketplace (classic car parts) with Expo mobile and Next.js web clients, including onboarding, listings, offers, profiles, and offline‑friendly query persistence.
+- Architected a type‑safe backend on Supabase Postgres (RLS, triggers, migrations) with tRPC + Kysely/Supabase clients and shared Zod schemas for end‑to‑end validation.
+- Delivered marketplace workflows and UX upgrades: multi‑step create flows, offer status/history logging, compatibility capture UIs, and richer search/listing cards.
+- Implemented advanced discovery: unified keyword search with PostGIS distance sorting and filters, plus semantic search using embeddings/pgvector and edge‑function migrations.
+- Integrated payments and trust flows: Better Auth/OIDC, Trustap OAuth + typed SDK, Cloudflare‑routed webhooks, and edge‑function ingestion for Trustap and Apple App Store events.
+- Built data + ops tooling: Playwright‑based ingester with AI enrichment, realistic seeders, release/version automation, and expanded test coverage (Vitest/Jest/Maestro).
+
+---
+
 Part Out - C2C Classic Car Parts Marketplace
 
 Resume Entry: Full-Stack Engineer / Technical Lead

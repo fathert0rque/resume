@@ -12,9 +12,9 @@ headline: 12+ years of leading teams to deliver great web experiences, insatiabl
 
 ->Toronto, Canada
 
-_Classic Car Parts Marketplace_
+_C2C classic car parts marketplace_
 
-#### **Founder**
+#### Founder
 
 ->March 2025 - Present
 
@@ -33,7 +33,7 @@ _Classic Car Parts Marketplace_
 
 _Battery cathode research and development_
 
-#### **Senior Software Developer**
+#### Senior Software Developer
 
 ->January 2021 - November 2024
 
@@ -52,7 +52,7 @@ _Battery cathode research and development_
 
 _ATS analytics and automation for staffing agencies_
 
-#### **Senior Front-end Developer**
+#### Senior Front-end Developer
 
 ->September 2017 - April 2020
 
@@ -70,7 +70,7 @@ _ATS analytics and automation for staffing agencies_
 
 _Local classifieds and community app_
 
-#### **Senior Front-end Developer**
+#### Senior Front-end Developer
 
 ->March 2016 - June 2017
 
@@ -87,7 +87,7 @@ _Local classifieds and community app_
 
 _Boutique Creative Agency_
 
-#### **Creative Technologist**
+#### Creative Technologist
 
 ->July 2014 - March 2016
 
