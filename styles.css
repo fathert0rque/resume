@@ -3,7 +3,7 @@
 @font-face {
   font-family: 'Inter';
   src: url('fonts/Inter-VariableFont_opsz,wght.ttf') format('truetype');
-  font-weight: 100 900;
+  /* font-weight: 100 900; */
   font-style: normal;
   font-display: swap;
 }
@@ -11,7 +11,7 @@
 @font-face {
   font-family: 'Inter';
   src: url('fonts/Inter-Italic-VariableFont_opsz,wght.ttf') format('truetype');
-  font-weight: 100 900;
+  /* font-weight: 100 900; */
   font-style: italic;
   font-display: swap;
 }
@@ -46,6 +46,7 @@ body {
   font-family: var(--font-sans);
   color: var(--color-text);
   background: white;
+  font-weight: 300;
 }
 
 .resume {
@@ -133,7 +134,7 @@ body {
 
 .content h4 {
   font-size: 0.95rem;
-  font-weight: 700;
+  font-weight: 600;
   margin-top: 0.2rem;
   margin-bottom: 0.1rem;
 }
@@ -179,22 +180,22 @@ body {
 }
 
 .content li::before {
-  content: "-";
+  content: "–";
   position: absolute;
-  left: 0;
+  left: -2px;
   top: 0;
-  color: var(--color-text);
+  color: var(--color-accent);
 }
 
 .content li strong {
-  font-weight: 600;
+  font-weight: 400;
 }
 
 /* Inline code (skills/tags) */
 .content code {
   font-family: var(--font-mono);
   font-size: 0.78rem;
-  font-weight: 500;
+  font-weight: 400;
   color: var(--color-accent);
   background: var(--color-tag-bg);
   padding: 0.1rem 0.3rem;
