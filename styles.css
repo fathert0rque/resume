@@ -1,5 +1,21 @@
 /* Resume Styles - Letter Size (8.5" x 11") */
 
+@font-face {
+  font-family: 'Inter';
+  src: url('fonts/Inter-VariableFont_opsz,wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('fonts/Inter-Italic-VariableFont_opsz,wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -12,8 +28,8 @@
   --color-accent: #3983ff;
   --color-border: #e0e0e0;
   --color-tag-bg: #ecf3ff;
-  --font-sans: "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --font-mono: "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-sans: 'Inter', "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-mono: 'Inter', "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 @page {
@@ -182,7 +198,7 @@ body {
   color: var(--color-accent);
   background: var(--color-tag-bg);
   padding: 0.1rem 0.3rem;
-  border-radius: 3px;
+  border-radius: 2px;
   white-space: nowrap;
 }
 

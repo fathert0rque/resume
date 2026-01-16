@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, mkdirSync } from "fs";
+import { readFileSync, writeFileSync, mkdirSync, cpSync } from "fs";
 import { fileURLToPath } from "url";
 import { dirname, join } from "path";
 import matter from "gray-matter";
@@ -54,6 +54,9 @@ async function build() {
   // Copy CSS to dist for proper linking
   const cssContent = readFileSync(join(ROOT, "styles.css"), "utf-8");
   writeFileSync(join(DIST, "styles.css"), cssContent);
+
+  // Copy fonts to dist
+  cpSync(join(ROOT, "fonts"), join(DIST, "fonts"), { recursive: true });
 
   return htmlPath;
 }
