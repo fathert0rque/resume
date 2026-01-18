@@ -20,7 +20,14 @@ _C2C classic car parts marketplace_
 
 `React Native` `NextJS` `Supabase` `Cloudflare` `Azure` `C#/.NET` `Message queues` `System design`
 
-- asdf
+- Architected Turborepo monorepo (11+ packages) with Expo mobile app, Next.js web, tRPC API, and shared packages for auth, database, UI, search, i18n, and payments—fully type-safe with Zod validation and Kysely queries
+- Engineered AI-powered semantic search using pgvector embeddings and NLP compatibility parsing (OpenAI structured outputs) to extract vehicle fitment from unstructured text; built speech-to-search with real-time transcription
+- Integrated Trustap escrow payments with OAuth account linking and architected event-driven transaction processing using PostgreSQL message queues (pgmq) with webhook ingestion for payment and App Store events
+- Implemented enterprise auth with Better Auth (OAuth/OIDC, Apple, Facebook, email/password, account linking) and defense-in-depth security: Row-Level Security policies, RBAC, client whitelisting, and webhook signature validation
+- Developed cross-platform mobile app (Expo SDK 52, React Native Paper) with offline-first patterns using React Query persistent cache (MMKV) and 64+ memoization optimizations
+- Designed PostgreSQL schema (30+ tables, triggers, views, stored procedures) with PostGIS for location-based discovery and distance sorting
+- Built comprehensive marketplace features: multi-step listing flows, intelligent buyer-seller matching via compatibility scoring, reputation system with ratings/blocking, and admin dashboard with moderation tools
+- Established testing infrastructure (Vitest, Jest, Maestro E2E), Playwright-based data ingestion with AI enrichment, Sentry observability with PII redaction, and zero-tolerance quality bar (no any types, 100% typecheck pass)
 
 ### Wildcat Discovery Technologies
 
