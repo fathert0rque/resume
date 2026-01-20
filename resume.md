@@ -20,14 +20,12 @@ _C2C classic car parts marketplace_
 
 `React Native` `NextJS` `Postgres` `Cloudflare` `System design` `Data science`
 
-- **Architected a type-safe, end-to-end C2C marketplace platform** using TypeScript, tRPC, Zod, Kysely, and PostgreSQL
-- **Built and maintained a Turborepo/pnpm monorepo** (11+ packages) spanning Expo mobile, Next.js web, API, and shared domain libraries
-- **Implemented multi-environment CI/CD with GitHub Actions,** including migrations, edge deployments, versioning, and rollback workflows
-- **Designed semantic search and compatibility intelligence** using pgvector, graph-based knowledge modeling, NLP extraction, and geospatial ranking
-- **Developed secure, event-driven payment and escrow workflows** integrating Trustap, Stripe, and App Store webhooks via message queues
-- **Implemented enterprise-grade authentication and security** with OAuth/OIDC, JWT-propagated RLS enforcement, RBAC, and webhook validation
-- **Delivered a cross-platform, offline-first mobile app** with Expo, OTA updates, persistent caching, and real-time push-driven UX flows
-- **Designed scalable data and observability infrastructure:** complex Postgres schemas, automated ingestion pipelines, comprehensive testing, and Sentry tracing
+- **Architected a full-stack automotive marketplace** using TypeScript, React Native, Next.js, and PostgreSQL with end-to-end type safety via tRPC, Zod schemas, and Kysely for query-safe database access.
+- **Built AI-powered vehicle data systems** including semantic search with pgvector embeddings, NLP parsing with OpenAI structured outputs to extract vehicle fitment from unstructured text, and a knowledge graph estimating vehicle/parts compatibility across 14,000+ model variants.
+- **Designed event-driven transaction processing** with Trustap/Stripe escrow integration, PGMQ message queues, and Cloudflare edge function ingestion—handling real-time offer negotiation, payment flows, and audit trail logging.
+- **Implemented defense-in-depth security architecture** with Row-Level Security policies, OAuth/OIDC multi-provider auth (Better Auth), JWT claim propagation to PostgreSQL, and webhook signature validation.
+- **Established CI/CD and quality infrastructure** using GitHub Actions for automated migrations, deployment pipelines, and rollback procedures, alongside comprehensive testing with Vitest, Jest, and Maestro E2E.
+- **Engineered data ingestion pipelines** with Playwright-based scraping and AI-powered verification using Perplexity grounded search to build and validate a vehicle database spanning decades of automotive platforms.
 
 ### Wildcat Discovery Technologies
 
@@ -41,13 +39,12 @@ _Battery cathode research and development_
 
 `React` `Remix` `Docker` `Azure` `C#/.NET` `Message queues`
 
-- **Led a comprehensive cloud migration** by porting internal administration systems to an Azure-based cloud solution to improve scalability, enable data pipelines, facilitate IoT machine control, and enhance overall security with fine-grained user role management.
-- **Implemented a suite of specialized full-stack React/Remix features** to enhance research capabilities, including a chemical inventory/hazardous material management system with QR code generation/scanning, a deep-zoom image viewer to review high-resolution electron microscope images, an interactive timeslot calendar to reserve shared lab equipment, OAuth 2.0 user auth with feature gating, and integrating the requisition approval process with a third-party accounting platform.
-- **Established robust CI/CD deployment infrastructure** by leveraging Azure pipelines to automatically test, build, and deploy containerized app to Azure App Service, while maintaining 99.99% uptime of mission-critical systems for daily usage by 150 scientific researchers and administrators.
-- **Compiled a unified codebase to cross-platform desktop deployments** to enable code sharing with on-premises touchscreen kiosk installations such as lab equipment controllers and employee badge scanners.
-- **Transformed lab operations** by implementing a Mosquitto MQTT broker, enabling real-time sensor data collection and programmatic machine control from our React app via WebSockets—automating previously manual workflows and reducing experiment setup and execution times exponentially.
-- **Applied the principles of system design** by leading requirements gathering sessions with stakeholders, maintaining user stories and Architectural Decision Records (ADRs), and contributing to the design of C#/.NET REST API.
-- **Cultivated team excellence** by leading and mentoring a 3-person frontend team, implementing a lean Agile methodology while fostering a flat team structure with an accountability-driven deployment strategy based on automated testing and peer review.
+- **Led cloud migration and CI/CD infrastructure** by porting internal systems to Azure, establishing automated pipelines for containerized deployments, and maintaining 99.99% uptime for 150 daily users.
+- **Implemented full-stack React/Remix features** including chemical inventory management with QR scanning, a deep-zoom electron microscope image viewer, equipment reservation calendar, OAuth 2.0 auth with irole-based feature gating, and third-party accounting integration.
+- **Transformed lab operations with IoT integration** by implementing a Mosquitto MQTT broker for real-time sensor data collection and programmatic machine control via WebSockets—automating manual workflows and reducing experiment setup times exponentially.
+- **Built cross-platform desktop deployments** enabling code sharing with on-premises touchscreen kiosks for lab equipment control and badge scanning.
+- **Drove system design practices** by leading requirements gathering, maintaining ADRs, and contributing to C#/.NET REST API architecture.
+- **Led a 3-person frontend team** with lean Agile methodology, accountability-driven deployments, and peer review processes.
 
 ### Sense Talent Labs
 
@@ -105,15 +102,15 @@ _Boutique creative agency_
 
 _Digital Agency_
 
-#### **Front-end Developer**
+#### Front-end Developer
 
 ->December 2010 - July 2014
 
 `jQuery` `Backbone.js` `PHP` `Ruby`
 
-- Built responsive websites and sophisticated single-page applications using vanilla JavaScript, jQuery, Backbone, and PHP frameworks that delivered intuitive user experiences across multiple device types.
-- Partnered with design teams to transform creative concepts into technically sound, visually compelling user interfaces that effectively communicated client brand values.
-- Steadily expanded technical capabilities from simple website implementations to complex interactive applications, contributing to the agency's ability to take on increasingly sophisticated projects.
+- **Built responsive websites and single-page applications** using vanilla JavaScript, jQuery, Backbone, and PHP frameworks that delivered intuitive user experiences across multiple device types.
+- **Partnered with design teams** to transform creative concepts into technically sound, visually compelling user interfaces that effectively communicated client brand values.
+- **Steadily expanded technical capabilities** from simple website implementations to complex interactive applications, contributing to the agency's ability to take on increasingly sophisticated projects.
 
 ## Education
 

@@ -49,4 +49,9 @@
 
 # Short
 
--
+- **Architected a full-stack automotive marketplace** using TypeScript, React Native, Next.js, and PostgreSQL with end-to-end type safety via tRPC, Zod schemas, and Kysely for query-safe database access.
+- **Built AI-powered vehicle data systems** including semantic search with pgvector embeddings, NLP parsing with OpenAI structured outputs to extract vehicle fitment from unstructured text, and a knowledge graph estimating vehicle/parts compatibility across 14,000+ model variants.
+- **Designed event-driven transaction processing** with Trustap/Stripe escrow integration, PGMQ message queues, and Cloudflare edge function ingestion—handling real-time offer negotiation, payment flows, and audit trail logging.
+- **Implemented defense-in-depth security architecture** with Row-Level Security policies, OAuth/OIDC multi-provider auth (Better Auth), JWT claim propagation to PostgreSQL, and webhook signature validation.
+- **Established CI/CD and quality infrastructure** using GitHub Actions for automated migrations, deployment pipelines, and rollback procedures, alongside comprehensive testing with Vitest, Jest, and Maestro E2E.
+- **Engineered data ingestion pipelines** with Playwright-based scraping and AI-powered verification using Perplexity grounded search to build and validate a vehicle database spanning decades of automotive platforms.
