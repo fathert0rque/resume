@@ -99,6 +99,22 @@ _Boutique creative agency_
 - **Collaborated with Creative Director** to conceptualize and implement custom interactive websites and applications to translate brand identities into engaging digital experiences.
 - **Leveraged diverse web technologies** including WebGL and WebSockets to create innovative and artistic online installations.
 
+### Pilot Interactive
+
+->Toronto, Canada
+
+_Digital Agency_
+
+#### **Front-end Developer**
+
+->December 2010 - July 2014
+
+`jQuery` `Backbone.js` `PHP` `Ruby`
+
+- Built responsive websites and sophisticated single-page applications using vanilla JavaScript, jQuery, Backbone, and PHP frameworks that delivered intuitive user experiences across multiple device types.
+- Partnered with design teams to transform creative concepts into technically sound, visually compelling user interfaces that effectively communicated client brand values.
+- Steadily expanded technical capabilities from simple website implementations to complex interactive applications, contributing to the agency's ability to take on increasingly sophisticated projects.
+
 ## Education
 
 Studies in Earth Science at at University of Toronto and Broadcasting at Ryerson University
