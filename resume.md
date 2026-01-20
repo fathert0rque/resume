@@ -3,7 +3,7 @@ name: Chris Barless
 email: chris@barless.co
 phone: "+1 416 722 5624"
 website: barless.co
-headline: 14+ years of leading teams to deliver outstanding web experiences, with a perpetual commitment to learning and growth.
+headline: 15+ years of leading teams to deliver outstanding web experiences, with a perpetual commitment to learning and growth.
 ---
 
 ## Work Experience
@@ -18,16 +18,16 @@ _C2C classic car parts marketplace_
 
 ->March 2025 - Present
 
-`React Native` `NextJS` `Supabase` `Cloudflare` `Azure` `C#/.NET` `Message queues` `System design`
+`React Native` `NextJS` `Postgres` `Cloudflare` `System design` `Data science`
 
-- Architected Turborepo monorepo (11+ packages) with Expo mobile app, Next.js web, tRPC API, and shared packages for auth, database, UI, search, i18n, and payments—fully type-safe with Zod validation and Kysely queries
-- Engineered AI-powered semantic search using pgvector embeddings and NLP compatibility parsing (OpenAI structured outputs) to extract vehicle fitment from unstructured text; built speech-to-search with real-time transcription
-- Integrated Trustap escrow payments with OAuth account linking and architected event-driven transaction processing using PostgreSQL message queues (pgmq) with webhook ingestion for payment and App Store events
-- Implemented enterprise auth with Better Auth (OAuth/OIDC, Apple, Facebook, email/password, account linking) and defense-in-depth security: Row-Level Security policies, RBAC, client whitelisting, and webhook signature validation
-- Developed cross-platform mobile app (Expo SDK 52, React Native Paper) with offline-first patterns using React Query persistent cache (MMKV) and 64+ memoization optimizations
-- Designed PostgreSQL schema (30+ tables, triggers, views, stored procedures) with PostGIS for location-based discovery and distance sorting
-- Built comprehensive marketplace features: multi-step listing flows, intelligent buyer-seller matching via compatibility scoring, reputation system with ratings/blocking, and admin dashboard with moderation tools
-- Established testing infrastructure (Vitest, Jest, Maestro E2E), Playwright-based data ingestion with AI enrichment, Sentry observability with PII redaction, and zero-tolerance quality bar (no any types, 100% typecheck pass)
+- **Architected a type-safe, end-to-end C2C marketplace platform** using TypeScript, tRPC, Zod, Kysely, and PostgreSQL
+- **Built and maintained a Turborepo/pnpm monorepo** (11+ packages) spanning Expo mobile, Next.js web, API, and shared domain libraries
+- **Implemented multi-environment CI/CD with GitHub Actions,** including migrations, edge deployments, versioning, and rollback workflows
+- **Designed semantic search and compatibility intelligence** using pgvector, graph-based knowledge modeling, NLP extraction, and geospatial ranking
+- **Developed secure, event-driven payment and escrow workflows** integrating Trustap, Stripe, and App Store webhooks via message queues
+- **Implemented enterprise-grade authentication and security** with OAuth/OIDC, JWT-propagated RLS enforcement, RBAC, and webhook validation
+- **Delivered a cross-platform, offline-first mobile app** with Expo, OTA updates, persistent caching, and real-time push-driven UX flows
+- **Designed scalable data and observability infrastructure:** complex Postgres schemas, automated ingestion pipelines, comprehensive testing, and Sentry tracing
 
 ### Wildcat Discovery Technologies
 
@@ -39,7 +39,7 @@ _Battery cathode research and development_
 
 ->January 2021 - November 2024
 
-`React` `Remix` `Docker` `Azure` `C#/.NET` `Message queues` `System design`
+`React` `Remix` `Docker` `Azure` `C#/.NET` `Message queues`
 
 - **Led a comprehensive cloud migration** by porting internal administration systems to an Azure-based cloud solution to improve scalability, enable data pipelines, facilitate IoT machine control, and enhance overall security with fine-grained user role management.
 - **Implemented a suite of specialized full-stack React/Remix features** to enhance research capabilities, including a chemical inventory/hazardous material management system with QR code generation/scanning, a deep-zoom image viewer to review high-resolution electron microscope images, an interactive timeslot calendar to reserve shared lab equipment, OAuth 2.0 user auth with feature gating, and integrating the requisition approval process with a third-party accounting platform.
